@@ -1,0 +1,4 @@
+START 1000
+PARSER moving.move 10000
+
+IDLE

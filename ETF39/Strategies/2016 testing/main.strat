@@ -1,0 +1,7 @@
+PARSER drziMehanizam.servo
+PARSER start.move
+PARSER spustiMehanizam.servo
+PARSER phase2.move
+PARSER pustiRibe.servo
+PARSER drziMehanizam.servo
+PARSER otvoriKisobran.servo

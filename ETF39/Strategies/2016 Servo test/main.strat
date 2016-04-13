@@ -1,0 +1,5 @@
+START 1000
+PARSER open.servo
+START 2000
+PARSER raiseUmbrella.servo
+START 1000

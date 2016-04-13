@@ -1,0 +1,19 @@
+START 1000
+
+PARSER waiting.wait
+
+PARSER phase1.move
+PARSER servo1.srv
+
+PARSER phase2.move
+PARSER servo2.srv
+
+PARSER phase3.move
+PARSER servo3.srv
+
+PARSER phase4.move
+PARSER servo4.srv
+
+PARSER phase5.move
+
+IDLE

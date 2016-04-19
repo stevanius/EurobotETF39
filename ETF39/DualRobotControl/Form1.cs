@@ -51,25 +51,42 @@ namespace DualRobotControl
             strats = stratList.ToArray();
         }
 
+        Controller controller1, controller2;
+
         private void button1_Click(object sender, EventArgs e)
         {
-            Controller c = new Controller(textBox1.Text, comboBox1.Text, true, false);
-            c.RunInNewThread();
+            controller1 = new Controller(textBox1.Text, comboBox1.Text, true, false);
+            if (controller1.r != null && controller1.r.comm != null) pictureBox1.BackColor = Color.Green;
+            else pictureBox1.BackColor = Color.Red;
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Controller c = new Controller(textBox2.Text, comboBox2.Text, true, false);
-            c.RunInNewThread();
+            controller2 = new Controller(textBox2.Text, comboBox2.Text, true, false);
+            if (controller2.r != null && controller2.r.comm != null) pictureBox2.BackColor = Color.Green;
+            else pictureBox2.BackColor = Color.Red;
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Controller c = new Controller(textBox1.Text, comboBox1.Text, true, false);
+            /*Controller c = new Controller(textBox1.Text, comboBox1.Text, true, false);
             c.RunInNewThread();
 
             c = new Controller(textBox2.Text, comboBox2.Text, true, false);
-            c.RunInNewThread();
+            c.RunInNewThread();*/
+
+            if (controller1 != null) controller1.RunInNewThread();
+            if (controller2 != null) controller2.RunInNewThread();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            controller1.RunInNewThread();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            controller2.RunInNewThread();
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

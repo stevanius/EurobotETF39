@@ -176,7 +176,7 @@ namespace Launcher
         private void button1_Click(object sender, EventArgs e)
         {
             panel1.Enabled = false;
-            Controller c = new Controller(comboBox1.Text, comboBox2.Text, true, true);
+            Controller c = new Controller(comboBox1.Text, comboBox2.Text, true, true, true);
             c.RunInNewThread();
             pictureBox3.BringToFront();
             dbg1.OpenComm(comboBox1.Text);

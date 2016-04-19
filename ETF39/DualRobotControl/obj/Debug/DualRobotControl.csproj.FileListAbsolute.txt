@@ -24,3 +24,16 @@ D:\Eurobot tmp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csprojResolveAs
 D:\Eurobot tmp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Form1.resources
 D:\Eurobot tmp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Properties.Resources.resources
 D:\Eurobot tmp\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csproj.GenerateResource.Cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\DualRobotControl.exe.config
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\DualRobotControl.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\DualRobotControl.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\Common.dll
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\PuppetMaster.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\Common.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\bin\Debug\PuppetMaster.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csprojResolveAssemblyReference.cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Form1.resources
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.Properties.Resources.resources
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\DualRobotControl\obj\Debug\DualRobotControl.csproj.GenerateResource.Cache

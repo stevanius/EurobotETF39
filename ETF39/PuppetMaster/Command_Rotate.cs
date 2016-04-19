@@ -40,7 +40,7 @@ namespace PuppetMaster
             //buffer.Write((byte)0x00);
 
             //int Ugao = (int)(Math.Abs(val) * 3100 / 90);
-            int Ugao = (int)(Math.Abs(val) * 1246 / 90);
+            int Ugao = (int)(Math.Abs(val) * c.r.rotationConst);
             
             buffer.Write((byte)(Ugao & 0x000F));
             buffer.Write((byte)((Ugao & 0x00F0) >> 4));

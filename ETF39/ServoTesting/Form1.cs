@@ -69,7 +69,7 @@ namespace ServoTesting
             comboBox1.SelectedIndex = 0;
             strats = stratList.ToArray();
 
-            controller = new Controller("COM3", false, true);
+            controller = new Controller("COM23", true, true, true);
         }
 
         void numUd_ValueChanged(object sender, EventArgs e)
@@ -85,7 +85,7 @@ namespace ServoTesting
         {
             controller.InitStrategy(comboBox1.Text);
             controller.Run();
-            controller = new Controller("COM3", false, true);
+            controller = new Controller("COM23", true, true, true);
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

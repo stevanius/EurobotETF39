@@ -24,3 +24,16 @@ D:\Eurobot tmp\ETF39\ServoTesting\obj\Debug\ServoTesting.csprojResolveAssemblyRe
 D:\Eurobot tmp\ETF39\ServoTesting\obj\Debug\ServoTesting.Form1.resources
 D:\Eurobot tmp\ETF39\ServoTesting\obj\Debug\ServoTesting.Properties.Resources.resources
 D:\Eurobot tmp\ETF39\ServoTesting\obj\Debug\ServoTesting.csproj.GenerateResource.Cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\ServoTesting.exe.config
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\ServoTesting.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\ServoTesting.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\Common.dll
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\PuppetMaster.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\Common.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\bin\Debug\PuppetMaster.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.csprojResolveAssemblyReference.cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.Form1.resources
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.Properties.Resources.resources
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\ServoTesting\obj\Debug\ServoTesting.csproj.GenerateResource.Cache

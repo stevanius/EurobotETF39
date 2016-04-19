@@ -16,6 +16,7 @@ namespace Common
         public int upToDate = 0;
         public SerialComm comm;
         int statusBits;
+        public float rotationConst;
 
         public Robot(float x, float y, float r)
             : base(x, y)
@@ -24,11 +25,12 @@ namespace Common
             this.r = r;
         }
 
-        public Robot(float x, float y, float r, string portName, bool setPosition = true)
+        public Robot(float x, float y, float r, string portName, bool setPosition = true, bool smallBot = false)
             : base(x, y)
         {
             this.rot = 0;
             this.r = r;
+            this.rotationConst = (smallBot ? 16.03f : 15.0f);
 
             comm = new SerialComm(this, portName);
             if (setPosition) comm.SetPosition(x, y);

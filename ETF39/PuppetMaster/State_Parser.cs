@@ -47,6 +47,8 @@ namespace PuppetMaster
             if (upper.StartsWith("SERVO_MOVE")) return Command_MoveServo.Parse(c, line);
             if (upper.StartsWith("DELAY")) return Command_Delay.Parse(c, line);
             if (upper.StartsWith("KILLSENSORS")) return new Command_KillSensors(c);
+            if (upper.StartsWith("ULTRASOUND_ON")) return new Command_UltrasoundOn(c);
+            if (upper.StartsWith("ULTRASOUND_OFF")) return new Command_UltrasoundOff(c);
 
             throw new Exception("Invalid command!");
         }

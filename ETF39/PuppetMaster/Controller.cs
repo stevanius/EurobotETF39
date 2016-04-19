@@ -16,9 +16,9 @@ namespace PuppetMaster
         public Robot r;
         public string stratFolder;
 
-        public Controller(string portName, bool movement = true, bool servos = true)
+        public Controller(string portName, bool movement = true, bool servos = true, bool smallBot = false)
         {
-            r = new Robot(0, 0, 0, portName, false);
+            r = new Robot(0, 0, 0, portName, false, smallBot);
             if (!movement) r.DisableMovement();
             if (!servos) r.DisableServos();
             DebugComm.StartDebug(this, portName);
@@ -66,14 +66,14 @@ namespace PuppetMaster
             LoadStrategy();
         }
 
-        public Controller(string portName, string strategy, bool movement = true, bool servos = true)
+        public Controller(string portName, string strategy, bool movement = true, bool servos = true, bool smallBot = false)
         {
             string path, port;
 
             ReadConfig(out path, out port);
 
             portName = (portName == "") ? port : portName;
-            r = new Robot(0, 0, 0, portName);
+            r = new Robot(0, 0, 0, portName, true, smallBot);
             if (!movement) r.DisableMovement();
             if (!servos) r.DisableServos();
 
@@ -143,7 +143,7 @@ namespace PuppetMaster
                     time = DateTime.Now - start;
                     state = state.DoStuff();
 
-                    Thread.Sleep(200);
+                    Thread.Sleep(50);
                 }
             }
             catch { }

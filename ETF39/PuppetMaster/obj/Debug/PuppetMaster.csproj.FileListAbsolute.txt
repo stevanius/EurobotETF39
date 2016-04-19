@@ -30,3 +30,11 @@ D:\Eurobot tmp\ETF39\PuppetMaster\bin\Debug\Common.pdb
 D:\Eurobot tmp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
 D:\Eurobot tmp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.exe
 D:\Eurobot tmp\ETF39\PuppetMaster\obj\Debug\PuppetMaster.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe.config
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\bin\Debug\PuppetMaster.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\bin\Debug\PuppetMaster.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\bin\Debug\Common.dll
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\bin\Debug\Common.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\obj\Debug\PuppetMaster.csprojResolveAssemblyReference.cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\obj\Debug\PuppetMaster.exe
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\PuppetMaster\obj\Debug\PuppetMaster.pdb

@@ -56,6 +56,8 @@
     <Compile Include="Command_SetAngle.cs" />
     <Compile Include="Command_SetPrescaler.cs" />
     <Compile Include="Command_StopAll.cs" />
+    <Compile Include="Command_UltrasoundOff.cs" />
+    <Compile Include="Command_UltrasoundOn.cs" />
     <Compile Include="Command_Wait.cs" />
     <Compile Include="Controller.cs" />
     <Compile Include="DebugComm.cs" />

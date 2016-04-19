@@ -18,3 +18,8 @@ D:\Eurobot tmp\ETF39\Common\bin\Debug\Common.pdb
 D:\Eurobot tmp\ETF39\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
 D:\Eurobot tmp\ETF39\Common\obj\Debug\Common.dll
 D:\Eurobot tmp\ETF39\Common\obj\Debug\Common.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\Common\bin\Debug\Common.dll
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\Common\bin\Debug\Common.pdb
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\Common\obj\Debug\Common.dll
+C:\Users\Stevan\Documents\GitHub\EurobotETF39\ETF39\Common\obj\Debug\Common.pdb
